@@ -1,14 +1,14 @@
-<style>body {border:5px solid purple ;}
-	body {background:pink}</style>
-	 <style>body {color:purple}</style>
-	<style>body {color:purple}</style>
-	<style>h1{font-family:fantasy;}</style>
-    <style>h2{font-family:Fantasy;}</style>
-<style>
-         body {
+body {border:5px solid purple ;}
+	body {background:pink}
+	 body {color:purple}
+	body {color:purple}
+	h1{font-family:fantasy;}
+    h2{font-family:Fantasy;}
+
+        /* body {
             background: rgb(184, 130, 245);
             font-family: sans-serif;
-        }
+        }*/
         
         .header {
             background-color: rgb(111, 58, 161);
@@ -37,6 +37,6 @@
         }
 
         }
-        </style>
-        <style>h3{font-family:fantasy;}</style>
-        <style>body {color:white}</style>
+        
+        h3{font-family:fantasy;}
+        body {color:white}
