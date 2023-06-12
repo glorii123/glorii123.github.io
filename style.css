@@ -40,3 +40,16 @@ body {border:5px solid purple ;}
         
         h3{font-family:fantasy;}
         body {color:white}
+
+<style>body {border:5px solid purple ;}
+	body {background:pink}</style>
+	 <style>body {color:black}</style>
+	<style>body {color:purple}</style>
+	<style>p{font-family:fantasy;}</style>
+    <style>p{font-family:Fantasy;}</style>
+    <style>ul{font-family:serif;}</style>
+    <style>body {text-align:center;} </style>
+
+
+
+
