@@ -1,7 +1,7 @@
-body {border:5px solid purple ;}
-	body {background:pink}
-	 body {color:purple}
-	body {color:purple}
+body {border:5px solid purple ;
+	background:pink
+	color:purple
+
 	h1{font-family:fantasy;}
     h2{font-family:Fantasy;}
 
@@ -41,7 +41,7 @@ body {border:5px solid purple ;}
         h3{font-family:fantasy;}
         body {color:white}
 
-<style>body {border:5px solid purple ;}
+body {border:5px solid purple ;}
 	body {background:pink}</style>
 	 <style>body {color:black}</style>
 	<style>body {color:purple}</style>
@@ -50,7 +50,7 @@ body {border:5px solid purple ;}
     <style>ul{font-family:serif;}</style>
     <style>body {text-align:center;} </style>
 
-<style>body {border:5px solid purple ;}
+body {border:5px solid purple ;}
 	body {background:violet}</style>
 	 <style>body {color:white}</style>
 	<style>body {color:white}</style>
